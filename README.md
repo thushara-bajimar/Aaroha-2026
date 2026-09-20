@@ -449,7 +449,7 @@ Open another terminal:
 ```bash
 cd server
 npm install
-npm start
+node server.js
 ```
 
 Then run the backend using the command configured in the server project.
@@ -546,19 +546,31 @@ Personalized Roadmap
 **Institution:** Sahyadri College of Engineering and Management
 
 ---
+## 📸 Screenshots
 
-## Demo
+![Home Page](image/image.png)
 
-**Live Demo:** To be added
+![Career Selection](image/image0.png)
 
-**Demo Video:** To be added
+![Domain](image/image1.png)
 
----
+![Skils](image/image2.png)
 
-## Presentation
+![Assessment](image/image3.png)
 
-**Project Presentation:** To be added
+![Assessment Results](image/image4.png)
 
----
+![Roadmap](image/image5.png)
+
+![Explore Option](image/image6.png)
+
+![Specific Domain](image/image7.png)
+
+![None of the above](image/image8.png)
+
+![Roadmap](image/image5.png)
+
+
+
 
 
